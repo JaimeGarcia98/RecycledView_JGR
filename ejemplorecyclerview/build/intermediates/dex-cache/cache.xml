@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jaime\.android\build-cache\60b1b1a9b0938f29dce49933324d039577c0b7a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\jaime\OneDrive\Escritorio\ejemplorecyclerview\app\build\intermediates\pre-dexed\debug\classes_b7732ea1ae7066e3718e97d6fd91f1ecf9cd47ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jaime\.android\build-cache\e867c0ee77072c038e16cc2863ca6714069d7951\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\jaime\OneDrive\Escritorio\ejemplorecyclerview\app\build\intermediates\pre-dexed\debug\classes_7232377f75cab1203ba36d6e044280c14b209e35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jaime\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\jaime\OneDrive\Escritorio\ejemplorecyclerview\app\build\intermediates\pre-dexed\debug\common-1.0.0_5efdcda86791bf05bd8a029156923f757bf386ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jaime\.android\build-cache\68f4dd29084ca6685107621d93b9f1033a2568e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jaime\OneDrive\Escritorio\ejemplorecyclerview\app\build\intermediates\pre-dexed\debug\classes_03eee9f0ceb779cd77722aff327b408d9c7cd35a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jaime\.android\build-cache\5ae7b5b84db5379bb750728eedfde0279b7744de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\jaime\OneDrive\Escritorio\ejemplorecyclerview\app\build\intermediates\pre-dexed\debug\classes_173fd1b09334ce98124d4bd60411bc5a7432b678.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jaime\.android\build-cache\3fec95e94ce4abe09fc406c88bef6409494ef9af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\jaime\OneDrive\Escritorio\ejemplorecyclerview\app\build\intermediates\pre-dexed\debug\classes_7656ced2dce3dd1c0aa51b1c54618136917fdfb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jaime\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\jaime\OneDrive\Escritorio\ejemplorecyclerview\app\build\intermediates\pre-dexed\debug\common-1.0.0_7044b28d7445ca9d7ada5986873dfbc336755ec3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jaime\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\jaime\OneDrive\Escritorio\ejemplorecyclerview\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_7992a79c83f9508411fc3f586b68c25c65f8088d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jaime\.android\build-cache\63f1e7b06624395b612882f1068794b805690f98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\jaime\OneDrive\Escritorio\ejemplorecyclerview\app\build\intermediates\pre-dexed\debug\classes_6c8b02f14cbfa04ff4ace3823a9c225927c87c20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jaime\.android\build-cache\630c08bc85a0c8c4c884c693a803d4c7559fad58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\jaime\OneDrive\Escritorio\ejemplorecyclerview\app\build\intermediates\pre-dexed\debug\classes_a6bf798b3c1fa2de941eeb165f123200aeba31fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jaime\.android\build-cache\f714a627cba398fbc21a941e0c36860a061192ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\jaime\OneDrive\Escritorio\ejemplorecyclerview\app\build\intermediates\pre-dexed\debug\classes_159e95ca88d7e833b98db581b7e0e0d93aa45f88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jaime\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\jaime\OneDrive\Escritorio\ejemplorecyclerview\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_3a1c57a858f77648ffea98a55cbb59f81b002026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jaime\.android\build-cache\98f9f298a6ca6e44d89edaf8f7a0c4090509d185\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\jaime\OneDrive\Escritorio\ejemplorecyclerview\app\build\intermediates\pre-dexed\debug\classes_385e199a2bdf1190ba6a4f495668323d28843227.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jaime\.android\build-cache\71bfa2eafa7d02e13a6f57d0e673413c43389f86\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\jaime\OneDrive\Escritorio\ejemplorecyclerview\app\build\intermediates\pre-dexed\debug\classes_49fad4688a0509d030e515ddb92744946f873e71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jaime\.android\build-cache\20ec8b78a89a78dc40efcc2ffdcf58f7c6986a00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\jaime\OneDrive\Escritorio\ejemplorecyclerview\app\build\intermediates\pre-dexed\debug\classes_b0679feaaaf36c31f32d0fa80444086066c382e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jaime\.android\build-cache\44a8c2088bcb27971a2b80deccfdfbea2e17495a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\jaime\OneDrive\Escritorio\ejemplorecyclerview\app\build\intermediates\pre-dexed\debug\classes_3e1be2723d6182bd6854cd6703933e9403999133.jar" />
+    </item>
+
+</items>

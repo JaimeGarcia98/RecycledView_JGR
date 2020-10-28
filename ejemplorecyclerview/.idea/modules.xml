@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ejemplorecyclerview.iml" filepath="$PROJECT_DIR$/Ejemplorecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ejemplorecyclerview.iml" filepath="$PROJECT_DIR$/.idea/modules/ejemplorecyclerview.iml" group="ejemplorecyclerview" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ejemplorecyclerview-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ejemplorecyclerview-app.iml" group="ejemplorecyclerview/app" />
+    </modules>
+  </component>
+</project>
