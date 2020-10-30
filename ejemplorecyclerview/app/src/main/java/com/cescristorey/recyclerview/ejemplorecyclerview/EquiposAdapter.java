@@ -4,6 +4,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -17,6 +18,13 @@ public class EquiposAdapter
 
     /*Arraylist donde almaceno los datos que se van a mostrar en el RecylerView*/
     private ArrayList<EquiposFutbol> datos;
+    /*Defino listener como objeto de la clase OnItemClickListener*/
+    private final OnItemClickListener listener;
+
+    /* Defino un interface con el OnItemClickListener*/
+    public interface OnItemClickListener {
+        void onItemClick(EquiposFutbol item);
+    }
 
     /* Incluyo el Viewholder en el Adapter */
     public static class EquiposFutbolViewHolder
@@ -36,17 +44,26 @@ public class EquiposAdapter
         }
 
         /*Muestra los datos de equipo en el item*/
-        public void bindEquipos(EquiposFutbol equiposFutbol) {
+        public void bindEquipos(final EquiposFutbol equiposFutbol, final OnItemClickListener listener) {
             tvNombre.setText(equiposFutbol.getNombre_equipo());
             tvCampo.setText(equiposFutbol.getCampo());;
             tvEntrenador.setText(equiposFutbol.getEntrenador());
+            /* Coloco el listener a la vista*/
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override public void onClick(View v) {
+                    listener.onItemClick(equiposFutbol);
+                }
+            });
         }
     }
 
 
     /* Constructor con parámetros*/
-    public EquiposAdapter(ArrayList<EquiposFutbol> datos) {
+    public EquiposAdapter(ArrayList<EquiposFutbol> datos, OnItemClickListener listener) {
+
         this.datos = datos;
+        this.listener = listener;
+
     }
 
     @Override
@@ -55,16 +72,16 @@ public class EquiposAdapter
         View itemView = LayoutInflater.from(viewGroup.getContext())
                 .inflate(R.layout.item_equipos, viewGroup, false);
         /* Crea un objeto de la clase CocheViewHolder, pasándole la vista anteriormente creada*/
-        EquiposFutbolViewHolder cocheVH = new EquiposFutbolViewHolder(itemView);
+        EquiposFutbolViewHolder futbolVH = new EquiposFutbolViewHolder(itemView);
         /* devuelve la vissta*/
-        return cocheVH;
+        return futbolVH;
     }
 
     @Override
     public void onBindViewHolder(EquiposFutbolViewHolder viewHolder, int pos) {
         EquiposFutbol equiposFutbol = datos.get(pos);
         /* Llama a bindEquipos, para que "pinte" los datos del equipo que se le pasa como parámetro*/
-        viewHolder.bindEquipos(equiposFutbol);
+        viewHolder.bindEquipos(equiposFutbol, listener);
     }
 
     @Override
